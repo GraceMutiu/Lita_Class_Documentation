@@ -31,3 +31,10 @@ SELECT SUM(SALARY) AS TOTALSALARY FROM SALARY
 SELECT AVG(SALARY) AS AVERAGESALARY FROM SALARY
 ```
 - Data visualisation: The cleaned and analysed data were visualised using charts, graphs or tables. 
+![image](https://github.com/user-attachments/assets/a3183366-b0e0-47df-a429-882d0ecc0919)
+
+![image](https://github.com/user-attachments/assets/78560757-14df-42cd-afe1-b5de925951e1)
+
+![image](https://github.com/user-attachments/assets/2bd57706-def9-4c3b-8757-e838a2931135)
+
+
