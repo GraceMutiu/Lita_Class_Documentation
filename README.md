@@ -25,4 +25,9 @@ The data used for these classes were provided by the facilitators but i was enco
 ### Steps Taken
 - Data cleaning: The data collected was cleaned by handling missing values, removing duplicates and reformatting columns for consistency. Pivot tables were also created to summarise the dataset.
 - Data analysis: This involves manipulating the data to answer some questions and gain more information about the data. Analyis like generating the total, average, maximum, minimum etc were used. Multiple tables were also joined to derive meaningful insights.
-- Data visualisation: 
+```SQL
+SELECT SUM(SALARY) AS TOTALSALARY FROM SALARY
+
+SELECT AVG(SALARY) AS AVERAGESALARY FROM SALARY
+```
+- Data visualisation: The cleaned and analysed data were visualised using charts, graphs or tables. 
