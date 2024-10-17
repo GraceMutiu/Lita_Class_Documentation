@@ -11,6 +11,7 @@ This project involves learning how to inspect, clean, explore, transform, analys
 The data used for these classes were provided by the facilitators but i was encouraged to get data from online sources like kaggle to practise what was done in class.
 
 ### Tools and Techniques
-- **Microsoft Excel for data cleaning and transformation
-- **SQL Server - Structured Query Language server for data analysis
-- Microsoft PowerBI for data visualisation
+- Microsoft Excel used for data cleaning, transformation, analysis and visualisation.
+- SQL Server - Structured Query Language server for more complex data analysis and transformation on large datasets.
+- Microsoft PowerBI for data visualisation.
+- GitHub was introduced for portfolio building.
